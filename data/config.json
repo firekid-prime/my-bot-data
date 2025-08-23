@@ -12,6 +12,14 @@
           }
         },
         "bypassRoles": []
+      },
+      "antilink": {
+        "enabled": true,
+        "protectedChannels": [
+          "1382496150766227477"
+        ],
+        "bypassRoles": [],
+        "message": "please refrain from sending links in this channel"
       }
     }
   }
