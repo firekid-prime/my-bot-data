@@ -1,7 +1,18 @@
 {
   "guilds": {
     "1382491941131915314": {
-      "modlogChannel": "1384507284385693716"
+      "modlogChannel": "1384507284385693716",
+      "filter": {
+        "words": {
+          "fuck": {
+            "pattern": "fuck",
+            "action": "delete",
+            "addedBy": "1316704971370266686",
+            "addedAt": "2025-08-23T12:30:50.538Z"
+          }
+        },
+        "bypassRoles": []
+      }
     }
   }
 }
