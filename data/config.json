@@ -31,7 +31,12 @@
         "90": "1382873176358391859",
         "100": "1382873657357111349"
       },
-      "levelUpChannel": "1408815335167230095"
+      "levelUpChannel": "1408815335167230095",
+      "welcome": {
+        "enabled": true,
+        "channel": "1403034356569604096",
+        "message": "Welcome {user} to the {server} server, Read <#1382492627940671548>  and enjoy your stay"
+      }
     }
   }
 }
