@@ -20,6 +20,9 @@
         ],
         "bypassRoles": [],
         "message": "please refrain from sending links in this channel"
+      },
+      "levelRoles": {
+        "1": "1382871498058109068"
       }
     }
   }
