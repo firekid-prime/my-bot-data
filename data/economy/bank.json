@@ -1,6 +1,6 @@
 {
-  "balance": 10006300,
-  "lastUpdated": "2025-08-26T23:37:35.539Z",
+  "balance": 10016300,
+  "lastUpdated": "2025-08-26T23:39:00.198Z",
   "totalDistributed": 2000,
   "transactions": [
     {
@@ -38,6 +38,14 @@
       "amount": -7000,
       "riskLevel": "6x",
       "timestamp": "2025-08-26T23:37:35.539Z"
+    },
+    {
+      "type": "dice_loss",
+      "userId": "1316704971370266686",
+      "username": "he_is_him.",
+      "amount": -10000,
+      "riskLevel": "6x",
+      "timestamp": "2025-08-26T23:39:00.198Z"
     }
   ]
 }
