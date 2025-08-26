@@ -343,13 +343,17 @@
         ]
       },
       "1377584058565136436": {
-        "messages": 1,
-        "totalMessages": 1,
-        "lastActivity": "2025-08-26T12:12:25.484Z",
+        "messages": 2,
+        "totalMessages": 2,
+        "lastActivity": "2025-08-26T12:13:01.260Z",
         "messageHistory": [
           {
             "messages": 1,
             "time": "2025-08-26T12:12:25.484Z"
+          },
+          {
+            "messages": 2,
+            "time": "2025-08-26T12:13:01.260Z"
           }
         ]
       },
