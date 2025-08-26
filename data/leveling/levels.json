@@ -2,14 +2,10 @@
   "guilds": {
     "1382491941131915314": {
       "1316704971370266686": {
-        "messages": 20599,
-        "totalMessages": 20599,
-        "lastActivity": "2025-08-26T22:27:39.429Z",
+        "messages": 20600,
+        "totalMessages": 20600,
+        "lastActivity": "2025-08-26T22:27:58.604Z",
         "messageHistory": [
-          {
-            "messages": 2,
-            "time": "2025-08-23T13:03:39.091Z"
-          },
           {
             "messages": 3,
             "time": "2025-08-23T13:37:17.520Z"
@@ -405,6 +401,10 @@
           {
             "messages": 20599,
             "time": "2025-08-26T22:27:39.429Z"
+          },
+          {
+            "messages": 20600,
+            "time": "2025-08-26T22:27:58.604Z"
           }
         ]
       },
