@@ -1,6 +1,6 @@
 {
-  "balance": 9999000,
-  "lastUpdated": "2025-08-26T23:13:32.753Z",
+  "balance": 9999100,
+  "lastUpdated": "2025-08-26T23:14:50.752Z",
   "totalDistributed": 2000,
   "transactions": [
     {
@@ -16,6 +16,13 @@
       "username": "he_is_him.",
       "amount": -1000,
       "timestamp": "2025-08-26T23:13:32.753Z"
+    },
+    {
+      "type": "coinflip_loss",
+      "userId": "1137898788271444019",
+      "username": "radaxx84_77400",
+      "amount": -100,
+      "timestamp": "2025-08-26T23:14:50.752Z"
     }
   ]
 }
