@@ -1,7 +1,7 @@
 {
-  "balance": 10013893,
-  "lastUpdated": "2025-08-27T10:25:00.164Z",
-  "totalDistributed": 10507,
+  "balance": 10013793,
+  "lastUpdated": "2025-08-27T10:25:23.281Z",
+  "totalDistributed": 10607,
   "transactions": [
     {
       "type": "coinflip_win",
@@ -207,6 +207,13 @@
       "username": "radaxx84_77400",
       "amount": 100,
       "timestamp": "2025-08-27T10:25:00.164Z"
+    },
+    {
+      "type": "coinflip_win",
+      "userId": "1137898788271444019",
+      "username": "radaxx84_77400",
+      "amount": 100,
+      "timestamp": "2025-08-27T10:25:23.281Z"
     }
   ]
 }
