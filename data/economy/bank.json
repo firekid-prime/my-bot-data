@@ -1,7 +1,7 @@
 {
-  "balance": 10033891,
-  "lastUpdated": "2025-08-27T11:12:37.746Z",
-  "totalDistributed": 10607,
+  "balance": 9998891,
+  "lastUpdated": "2025-08-27T11:14:15.281Z",
+  "totalDistributed": 45607,
   "transactions": [
     {
       "type": "coinflip_win",
@@ -239,6 +239,17 @@
       "cashoutMultiplier": 2,
       "crashPoint": 1.642125578996194,
       "timestamp": "2025-08-27T11:12:37.747Z"
+    },
+    {
+      "type": "dice_win",
+      "userId": "1316704971370266686",
+      "username": "he_is_him.",
+      "amount": 35000,
+      "multiplier": 6,
+      "rolledNumber": 2,
+      "selectedNumbers": "2,4",
+      "multiplierChoice": "6x,4x",
+      "timestamp": "2025-08-27T11:14:15.281Z"
     }
   ]
 }
