@@ -42,6 +42,9 @@
         "enabled": true,
         "channel": "1403034356569604096",
         "message": "Welcome {user} to the {server} server, Read <#1382492627940671548>  and enjoy your stay"
+      },
+      "settings": {
+        "leaderboardChannel": "1410182912850264064"
       }
     }
   }
