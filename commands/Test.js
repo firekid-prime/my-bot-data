@@ -1,0 +1,1 @@
+"const { SlashCommandBuilder } = require('discord.js');\n\nmodule.exports = {\n data: new SlashCommandBuilder()\n   .setName('Test')\n   .setDescription('For testing'),\n async execute(interaction) {\n   await interaction.reply('Itamio Kanigro');\n }\n};"
