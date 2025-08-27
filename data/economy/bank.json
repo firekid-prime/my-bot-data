@@ -1,6 +1,6 @@
 {
   "balance": 9998891,
-  "lastUpdated": "2025-08-27T11:14:15.281Z",
+  "lastUpdated": "2025-08-27T11:18:47.327Z",
   "totalDistributed": 45607,
   "transactions": [
     {
@@ -250,6 +250,17 @@
       "selectedNumbers": "2,4",
       "multiplierChoice": "6x,4x",
       "timestamp": "2025-08-27T11:14:15.281Z"
+    },
+    {
+      "type": "transfer",
+      "transactionId": "TXN-X5GHH",
+      "senderId": "1137898788271444019",
+      "senderUsername": "radaxx84_77400",
+      "receiverId": "1316704971370266686",
+      "receiverUsername": "he_is_him.",
+      "amount": 10,
+      "reason": "just dashing",
+      "timestamp": "2025-08-27T11:18:47.327Z"
     }
   ]
 }
