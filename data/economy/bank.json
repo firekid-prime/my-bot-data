@@ -1,6 +1,6 @@
 {
   "balance": 9998706,
-  "lastUpdated": "2025-08-28T20:25:47.264Z",
+  "lastUpdated": "2025-08-28T22:17:04.009Z",
   "totalDistributed": 47692,
   "transactions": [
     {
@@ -350,6 +350,17 @@
       "cashoutMultiplier": 1.85,
       "crashPoint": 3.1799790700303134,
       "timestamp": "2025-08-28T20:25:47.264Z"
+    },
+    {
+      "type": "transfer",
+      "transactionId": "TXN-ZVTY3",
+      "senderId": "1316704971370266686",
+      "senderUsername": "he_is_him.",
+      "receiverId": "1382342429138616341",
+      "receiverUsername": "sammyx1000",
+      "amount": 1000,
+      "reason": "hmm",
+      "timestamp": "2025-08-28T22:17:04.009Z"
     }
   ]
 }
