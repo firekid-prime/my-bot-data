@@ -1,6 +1,6 @@
 {
   "balance": 9998706,
-  "lastUpdated": "2025-08-28T22:17:41.707Z",
+  "lastUpdated": "2025-08-28T22:18:36.270Z",
   "totalDistributed": 47692,
   "transactions": [
     {
@@ -372,6 +372,17 @@
       "amount": 1000,
       "reason": "hmm",
       "timestamp": "2025-08-28T22:17:41.707Z"
+    },
+    {
+      "type": "transfer",
+      "transactionId": "TXN-YVHG9",
+      "senderId": "1316704971370266686",
+      "senderUsername": "he_is_him.",
+      "receiverId": "1370539950583316551",
+      "receiverUsername": "your_awkard_weirdo",
+      "amount": 1000,
+      "reason": "hmm",
+      "timestamp": "2025-08-28T22:18:36.270Z"
     }
   ]
 }
