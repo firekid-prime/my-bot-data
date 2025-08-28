@@ -1,7 +1,7 @@
 {
-  "balance": 9998591,
-  "lastUpdated": "2025-08-28T01:18:50.815Z",
-  "totalDistributed": 45907,
+  "balance": 9998491,
+  "lastUpdated": "2025-08-28T20:10:19.491Z",
+  "totalDistributed": 46007,
   "transactions": [
     {
       "type": "coinflip_win",
@@ -275,6 +275,13 @@
       "username": "radaxx84_77400",
       "amount": 100,
       "timestamp": "2025-08-28T01:18:50.815Z"
+    },
+    {
+      "type": "coinflip_win",
+      "userId": "1382342429138616341",
+      "username": "sammyx1000",
+      "amount": 100,
+      "timestamp": "2025-08-28T20:10:19.491Z"
     }
   ]
 }
