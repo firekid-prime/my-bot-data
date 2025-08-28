@@ -1,6 +1,6 @@
 {
   "balance": 9998706,
-  "lastUpdated": "2025-08-28T22:17:04.009Z",
+  "lastUpdated": "2025-08-28T22:17:41.707Z",
   "totalDistributed": 47692,
   "transactions": [
     {
@@ -361,6 +361,17 @@
       "amount": 1000,
       "reason": "hmm",
       "timestamp": "2025-08-28T22:17:04.009Z"
+    },
+    {
+      "type": "transfer",
+      "transactionId": "TXN-8008F",
+      "senderId": "1316704971370266686",
+      "senderUsername": "he_is_him.",
+      "receiverId": "1137898788271444019",
+      "receiverUsername": "radaxx84_77400",
+      "amount": 1000,
+      "reason": "hmm",
+      "timestamp": "2025-08-28T22:17:41.707Z"
     }
   ]
 }
