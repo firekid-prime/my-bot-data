@@ -1,6 +1,6 @@
 {
-  "balance": 9998391,
-  "lastUpdated": "2025-08-28T20:19:33.545Z",
+  "balance": 9998791,
+  "lastUpdated": "2025-08-28T20:20:51.621Z",
   "totalDistributed": 47607,
   "transactions": [
     {
@@ -332,6 +332,15 @@
       "cashoutMultiplier": 4,
       "crashPoint": 1.058085667451529,
       "timestamp": "2025-08-28T20:19:33.545Z"
+    },
+    {
+      "type": "aviator_loss",
+      "userId": "1382342429138616341",
+      "username": "sammyx1000",
+      "amount": -400,
+      "cashoutMultiplier": 5,
+      "crashPoint": 3.0238927576221113,
+      "timestamp": "2025-08-28T20:20:51.621Z"
     }
   ]
 }
