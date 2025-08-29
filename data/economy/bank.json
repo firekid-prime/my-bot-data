@@ -1,7 +1,7 @@
 {
-  "balance": 9999098,
-  "lastUpdated": "2025-08-29T06:59:32.371Z",
-  "totalDistributed": 50192,
+  "balance": 9998898,
+  "lastUpdated": "2025-08-29T08:58:28.310Z",
+  "totalDistributed": 50392,
   "transactions": [
     {
       "type": "coinflip_win",
@@ -481,6 +481,13 @@
       "cashoutMultiplier": 2,
       "crashPoint": 1.2188839268788259,
       "timestamp": "2025-08-29T06:59:32.371Z"
+    },
+    {
+      "type": "daily",
+      "userId": "1382342429138616341",
+      "username": "sammyx1000",
+      "amount": 200,
+      "timestamp": "2025-08-29T08:58:28.310Z"
     }
   ]
 }
