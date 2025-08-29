@@ -10,5 +10,14 @@
     "lastVerified": "2025-08-29T07:59:48.648Z",
     "selectedGame": "freefire",
     "selectedPlaystyle": "Balanced"
+  },
+  "1382342429138616341": {
+    "username": "Sam",
+    "supabaseUserId": "32688400-5e07-4875-89d8-be94d029bf8e",
+    "role": "user",
+    "vipStatus": "Regular",
+    "vipExpiresAt": null,
+    "linkedAt": "2025-08-29T08:08:25.308Z",
+    "lastLogin": "2025-08-29T08:08:25.308Z"
   }
 }
