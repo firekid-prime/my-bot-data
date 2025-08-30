@@ -1,6 +1,6 @@
 {
-  "balance": 9999463,
-  "lastUpdated": "2025-08-30T07:38:27.118Z",
+  "balance": 9999563,
+  "lastUpdated": "2025-08-30T07:38:51.960Z",
   "totalDistributed": 51166,
   "transactions": [
     {
@@ -621,6 +621,13 @@
       "cashoutMultiplier": 1.19,
       "crashPoint": 1.078505210481972,
       "timestamp": "2025-08-30T07:38:27.118Z"
+    },
+    {
+      "type": "coinflip_loss",
+      "userId": "1137898788271444019",
+      "username": "radaxx84_77400",
+      "amount": -100,
+      "timestamp": "2025-08-30T07:38:51.960Z"
     }
   ]
 }
