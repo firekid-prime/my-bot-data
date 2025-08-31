@@ -1,6 +1,6 @@
 {
-  "balance": 9998522,
-  "lastUpdated": "2025-08-31T01:04:45.013Z",
+  "balance": 9998701,
+  "lastUpdated": "2025-08-31T01:05:51.984Z",
   "totalDistributed": 52407,
   "transactions": [
     {
@@ -680,6 +680,15 @@
       "cashoutMultiplier": 3,
       "crashPoint": 4.525592391785569,
       "timestamp": "2025-08-31T01:04:45.013Z"
+    },
+    {
+      "type": "aviator_loss",
+      "userId": "1137898788271444019",
+      "username": "radaxx84_77400",
+      "amount": -179,
+      "cashoutMultiplier": 2,
+      "crashPoint": 1.11440355161064,
+      "timestamp": "2025-08-31T01:05:51.984Z"
     }
   ]
 }
