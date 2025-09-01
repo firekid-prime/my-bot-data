@@ -1,6 +1,6 @@
 {
   "balance": 10001301,
-  "lastUpdated": "2025-09-01T21:10:03.328Z",
+  "lastUpdated": "2025-09-01T21:10:50.284Z",
   "totalDistributed": 52656,
   "transactions": [
     {
@@ -772,6 +772,17 @@
       "amount": 10000,
       "reason": "idc",
       "timestamp": "2025-09-01T21:10:03.328Z"
+    },
+    {
+      "type": "transfer",
+      "transactionId": "TXN-WRO78",
+      "senderId": "1316704971370266686",
+      "senderUsername": "he_is_him.",
+      "receiverId": "1382342429138616341",
+      "receiverUsername": "sammyx1000",
+      "amount": 5000,
+      "reason": "idc",
+      "timestamp": "2025-09-01T21:10:50.284Z"
     }
   ]
 }
