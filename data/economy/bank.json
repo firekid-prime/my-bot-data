@@ -1,16 +1,8 @@
 {
-  "balance": 10013500,
-  "lastUpdated": "2025-09-03T22:12:54.628Z",
+  "balance": 10513500,
+  "lastUpdated": "2025-09-03T22:13:59.724Z",
   "totalDistributed": 67214,
   "transactions": [
-    {
-      "type": "dice_loss",
-      "userId": "1316704971370266686",
-      "username": "he_is_him.",
-      "amount": -7000,
-      "riskLevel": "6x",
-      "timestamp": "2025-08-26T23:37:35.539Z"
-    },
     {
       "type": "dice_loss",
       "userId": "1316704971370266686",
@@ -877,6 +869,15 @@
       "cashoutMultiplier": 5,
       "crashPoint": 1.017157173813703,
       "timestamp": "2025-09-03T22:12:54.628Z"
+    },
+    {
+      "type": "addition",
+      "amount": 500000,
+      "reason": "Donation from he_is_him.",
+      "userId": "1316704971370266686",
+      "username": "he_is_him.",
+      "timestamp": "2025-09-03T22:13:59.724Z",
+      "balanceAfter": 10513500
     }
   ]
 }
