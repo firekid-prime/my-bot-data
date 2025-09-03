@@ -1,17 +1,8 @@
 {
-  "balance": 10985840,
-  "lastUpdated": "2025-09-03T22:29:26.339Z",
+  "balance": 10986840,
+  "lastUpdated": "2025-09-03T22:32:47.561Z",
   "totalDistributed": 67493,
   "transactions": [
-    {
-      "type": "aviator_win",
-      "userId": "1316704971370266686",
-      "username": "he_is_him.",
-      "amount": 30,
-      "cashoutMultiplier": 1.3,
-      "crashPoint": 1.642662590836675,
-      "timestamp": "2025-08-27T00:29:36.510Z"
-    },
     {
       "type": "aviator_win",
       "userId": "1316704971370266686",
@@ -876,6 +867,15 @@
       "cashoutMultiplier": 1.5,
       "crashPoint": 1.1469136789545267,
       "timestamp": "2025-09-03T22:29:26.339Z"
+    },
+    {
+      "type": "aviator_loss",
+      "userId": "1316704971370266686",
+      "username": "he_is_him.",
+      "amount": -1000,
+      "cashoutMultiplier": 1.5,
+      "crashPoint": 1.3971629274032806,
+      "timestamp": "2025-09-03T22:32:47.561Z"
     }
   ]
 }
