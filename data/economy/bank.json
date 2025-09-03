@@ -1,18 +1,8 @@
 {
-  "balance": 10984840,
-  "lastUpdated": "2025-09-03T22:17:42.277Z",
-  "totalDistributed": 67214,
+  "balance": 10984640,
+  "lastUpdated": "2025-09-03T22:17:54.145Z",
+  "totalDistributed": 67414,
   "transactions": [
-    {
-      "type": "dice_loss",
-      "userId": "1316704971370266686",
-      "username": "he_is_him.",
-      "amount": -1700,
-      "rolledNumber": 6,
-      "selectedNumbers": "2,5",
-      "multiplierChoice": "6x,4x",
-      "timestamp": "2025-08-27T00:03:04.534Z"
-    },
     {
       "type": "aviator_win",
       "userId": "1137898788271444019",
@@ -879,6 +869,13 @@
       "username": "he_is_him.",
       "timestamp": "2025-09-03T22:17:42.277Z",
       "balanceAfter": 10984840
+    },
+    {
+      "type": "daily",
+      "userId": "1316704971370266686",
+      "username": "he_is_him.",
+      "amount": 200,
+      "timestamp": "2025-09-03T22:17:54.145Z"
     }
   ]
 }
