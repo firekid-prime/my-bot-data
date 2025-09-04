@@ -7,7 +7,9 @@
       "imageUrl": "https://media.discordapp.net/attachments/1408781564648886322/1413051610287968318/IMG_2337.jpg?ex=68ba865d&is=68b934dd&hm=e626ce65518f1dcdd36a36d70b4b7f5273bdee5e62fed7b0501108706e530865&=&format=webp&width=525&height=525",
       "winners": 1,
       "endTime": 1756974420000,
-      "participants": [],
+      "participants": [
+        "1316704971370266686"
+      ],
       "createdBy": "1316704971370266686",
       "createdAt": "2025-09-04T08:25:50.660Z",
       "guildId": "1382491941131915314",
