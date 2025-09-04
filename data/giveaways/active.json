@@ -7,7 +7,9 @@
       "imageUrl": null,
       "winners": 1,
       "endTime": 1757064720000,
-      "participants": [],
+      "participants": [
+        "1137898788271444019"
+      ],
       "createdBy": "1137898788271444019",
       "createdAt": "2025-09-04T09:32:09.992Z",
       "guildId": "1382491941131915314",
