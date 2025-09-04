@@ -57,6 +57,26 @@
       "messageId": "1413077586833313845",
       "endedAt": "2025-09-04T08:27:01.651Z",
       "status": "auto_ended"
+    },
+    {
+      "id": "99l3giolk",
+      "name": "Free 1k coins",
+      "description": "Someone will be selected to win 1k coin",
+      "imageUrl": null,
+      "winners": [],
+      "endTime": 1757064720000,
+      "participants": [
+        "1137898788271444019",
+        "1316704971370266686"
+      ],
+      "createdBy": "1137898788271444019",
+      "createdAt": "2025-09-04T09:32:09.992Z",
+      "guildId": "1382491941131915314",
+      "channelId": "1382491941933158412",
+      "messageId": "1413094277202051237",
+      "endedAt": "2025-09-04T10:34:50.124Z",
+      "endedBy": "1316704971370266686",
+      "status": "ended_no_winners"
     }
   ]
 }
