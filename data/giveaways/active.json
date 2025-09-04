@@ -1,3 +1,18 @@
 {
-  "giveaways": []
+  "giveaways": [
+    {
+      "id": "ss27gaoqn",
+      "name": "Name",
+      "description": "Test",
+      "imageUrl": "https://cdn.discordapp.com/attachments/1408781564648886322/1413051610287968318/IMG_2337.jpg?ex=68ba865d&is=68b934dd&hm=e626ce65518f1dcdd36a36d70b4b7f5273bdee5e62fed7b0501108706e530865&",
+      "winners": 1,
+      "endTime": 1756979820000,
+      "participants": [],
+      "createdBy": "1316704971370266686",
+      "createdAt": "2025-09-04T07:55:48.513Z",
+      "guildId": "1382491941131915314",
+      "channelId": "1382491941933158412",
+      "messageId": "1413070029691551878"
+    }
+  ]
 }
